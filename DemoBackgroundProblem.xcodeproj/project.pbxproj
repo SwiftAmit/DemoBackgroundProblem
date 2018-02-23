@@ -12,6 +12,7 @@
 		CABCBC8E203FE19B0018A5B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CABCBC8C203FE19B0018A5B1 /* Main.storyboard */; };
 		CABCBC90203FE19B0018A5B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CABCBC8F203FE19B0018A5B1 /* Assets.xcassets */; };
 		CABCBC93203FE19B0018A5B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CABCBC91203FE19B0018A5B1 /* LaunchScreen.storyboard */; };
+		CABCBC9B203FE59F0018A5B1 /* VideoOne.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CABCBC9A203FE59F0018A5B1 /* VideoOne.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CABCBC8F203FE19B0018A5B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CABCBC92203FE19B0018A5B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CABCBC94203FE19B0018A5B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CABCBC9A203FE59F0018A5B1 /* VideoOne.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = VideoOne.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				CABCBC8A203FE19B0018A5B1 /* ViewController.swift */,
 				CABCBC8C203FE19B0018A5B1 /* Main.storyboard */,
 				CABCBC8F203FE19B0018A5B1 /* Assets.xcassets */,
+				CABCBC9A203FE59F0018A5B1 /* VideoOne.mp4 */,
 				CABCBC91203FE19B0018A5B1 /* LaunchScreen.storyboard */,
 				CABCBC94203FE19B0018A5B1 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CABCBC9B203FE59F0018A5B1 /* VideoOne.mp4 in Resources */,
 				CABCBC93203FE19B0018A5B1 /* LaunchScreen.storyboard in Resources */,
 				CABCBC90203FE19B0018A5B1 /* Assets.xcassets in Resources */,
 				CABCBC8E203FE19B0018A5B1 /* Main.storyboard in Resources */,
